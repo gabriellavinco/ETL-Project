@@ -2,9 +2,9 @@
 
 ## Tasks
 
-- Create a customer_db database in pgAdmin 4 then create the following two tables within:
-- A premise table that contains the columns id, premise_name and county_id.
-- A county table that contains the columns id, county_name, license_count and county_id.
+- Create a ```customer_db``` database in pgAdmin 4 then create the following two tables within:
+- A ```premise``` table that contains the columns ```id```, ```premise_name``` and ```county_id```.
+- A ```county``` table that contains the columns ```id```, ```county_name```, ```license_count``` and ```county_id```.
 - Be sure to assign a primary key, as Pandas will not be able to do so.
 - In Jupyter Notebook perform all ETL.
 
